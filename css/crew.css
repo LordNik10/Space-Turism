@@ -499,7 +499,6 @@
         margin-left: 20%;
         gap: 10%;
         margin-top: 2%;
-        display: none;
     }
     #mainmark
     {
@@ -510,6 +509,7 @@
         margin-left: 20%;
         gap: 10%;
         margin-top: 2%;
+        display: none;
     }
     #mainvictor
     {
